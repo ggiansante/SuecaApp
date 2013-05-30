@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/plain_background" >
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="493dp" 
+        android:orientation="vertical">
+        
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/str_instr"
+            android:textSize="15dp" />
+
+       <Button
+            android:id="@+id/creditos_menu"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:onClick="chamaTela_Menu"
+            android:layout_marginBottom="41dp"
+            android:layout_marginTop="41dp"
+            android:text="MENU" />
+
+    </LinearLayout>
+    
+
+    
+
+</ScrollView>

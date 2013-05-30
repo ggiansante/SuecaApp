@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" 
+    android:background="@drawable/background" >
+
+    <Button
+        android:id="@+id/menu_instrucoes"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/menu_creditos"
+        android:layout_alignLeft="@+id/menu_creditos"
+        android:layout_marginBottom="14dp"
+        android:text="INSTRUÇÕES"
+        android:onClick="chamaTela_Instrucoes" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/menu_instrucoes"
+        android:layout_alignLeft="@+id/menu_instrucoes"
+        android:layout_marginBottom="14dp"
+        android:text="JOGAR" />
+
+    <Button
+        android:id="@+id/menu_creditos"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="38dp"
+        android:onClick="chamaTela_Creditos"
+        android:text="CRÉDITOS" />
+
+</RelativeLayout>

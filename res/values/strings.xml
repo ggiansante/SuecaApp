@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sueca App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_instr">\n Sueca é um drinking game (jogo para beber).\n\n
+As regras são:
+\n\n Dois baralhos completos (sem os coringas) são embaralhados juntos. \n As cartas ficam com as faces para baixo na mesa e a galera fica em volta – quanto mais gente melhor.\n O jogo gira no sentido horário.\n Não é permitido deixar o jogo em nenhum momento, nem para ir ao banheiro.\n A medida da dose a ser bebida é definida pelos jogadores e deve ser respeitada sob a pena de se dobrar a dose para os infratores.
+\n Alguém começa tirando uma carta.\n As cartas devem ser abertas conforme forem tiradas do monte e mostradas para todos os jogadores.\n Cada carta tem uma função:
+\n\n Ás: Escolhe uma pessoa para beber.
+\n\n 2: Escolhe duas pessoas para beber.
+\n\n 3: Escolhe três pessoas para beber.
+\n\n 4: Saída – Essa carta também pode ser guardada, e negociada, se for o caso. Ela permite ao jogador uma ida ao banheiro. Caso o jogador não possua a carta 4, ele deve beber 3 doses antes de sair.
+\n\n 5: Regra Geral – Quem tira essa carta determina uma regra para todos obedecerem. Pode ser algo do tipo “está proíbido falar a palavra ‘beber’ e seus derivados”, ou “antes de beber uma dose, a pessoa tem que rebolar”. Quem quebrar a regra, deve beber (as vezes, de novo). A Regra Geral dura o jogo todo.
+\n\n 6: Quebra Regra – Quem tira essa carta pode anular uma regra existente.
+\n\n 7: Jogo do “Pi” – O jogador que tirou a carta fala o número 1. O próximo jogador fala o número seguinte (2) e assim por diante. A pegadinha é que todo número múltiplo de sete e terminado no mesmo deve ser substituído pela palavra “pi”. Exemplo: Começando a contagem (1,2,3...), ao chegar no 7, a pessoa fala “pi”. Caso seja 17, fala “pi” também, assim sucessivamente. Quem errar, ou demorar muito, bebe.
+\n\n 8: Jogo do Mercado – Quem tira essa carta, deve começar, por exemplo: "Fui no mercado e comprei um peixe". O Jogador à sua esquerda continua repetindo o que ele disse "Fui no mercado e comprei um peixe e uma banana", assim sucessivamente. Quem demorar, ou errar, bebe uma dose.
+\n\n 9: Continência – Quem tirou o 9 guarda a carta (não a devolve ao monte de descarte, como as demais) e usa-a quando quiser. Discretamente, essa pessoa deve colocar a mão na testa, fazendo continência e observar os outros jogadores. O último que perceber e fizer continência, bebe.
+\n\n 10: Jogo do Vrum: Este jogo consiste em encenar-se movimentos de um carro através da pronuncia de três fonemas: (Vrum (acelerando), Irhh (freiando) Ploft (buraco). Cada jogador deve dar continuidade ao movimento anterior. Existem 3 movimentos possíveis que podem ser pronunciados: "Vrum": Segue para o próximo jogador no sentido atual, "Irhh": Inverte o sentido, "Ploft": Pula um jogador. Por exemplo, o jogo começa no sentido horário, o primeiro jogador fala um dos três fonemas, por exemplo Vrum, assim o próximo jogador no sentido horário deve continuar, este diz por exemplo Ploft, aí pula-se um jogador no sentido horário e o outro jogador deve continuar, se este falar Ploft, aí inverte-se o jogo para o sentido anti-horário e o jogador à direita do mesmo deve continuar pronunciando um dos três fonemas. Quem se perder ou errar bebe. Podem ocorrer casos de mais de uma pessoa beber.
+\n\n J: Todos os homens da mesa bebem uma dose.
+\n\n Q: Todas as mulheres da mesa bebem uma dose.
+\n\n K: Todos na mesa bebem uma dose (incluindo quem tirou).
+
+
+</string>
+    
+
+</resources>
