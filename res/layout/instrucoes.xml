@@ -20,10 +20,12 @@
             android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="80dp"
-            android:onClick="chamaTela_Menu"
             android:layout_marginBottom="41dp"
             android:layout_marginTop="41dp"
-            android:text="MENU" />
+            android:text="MENU"
+            android:onClick="chamaTela_Menu" />
+       
+
 
     </LinearLayout>
     
